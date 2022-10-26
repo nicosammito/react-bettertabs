@@ -16,7 +16,7 @@
     "sourceType": "module",
     "settings": {
       "react": {
-        "version": "latest"
+        "version": "18.2.0"
       }
     }
   },
